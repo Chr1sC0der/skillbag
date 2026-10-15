@@ -17,7 +17,7 @@ An AI coding tool that loads skills, in its own native shape. v1 targets Claude 
 _Avoid_: Tool, client, agent, IDE
 
 **Adapter**:
-The per-harness piece that installs a skill into a harness's native shape, or skips it with a warning when the harness has no equivalent.
+The piece that places a skill where a harness loads it, or skips it with a warning when the target cannot accept it. One adapter can serve several harnesses that read the same location.
 _Avoid_: Driver, plugin, connector
 
 **Enable / Disable**:
