@@ -1,7 +1,7 @@
 {
-  "name": "kitbag",
+  "name": "skillbag",
   "version": "0.0.1",
   "description": "Manage skill libraries across AI harnesses (placeholder).",
   "license": "MIT",
-  "repository": "github:Chr1sC0der/kitbag"
+  "repository": "github:Chr1sC0der/skillbag"
 }

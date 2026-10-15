@@ -1,4 +1,4 @@
-# kitbag
+# skillbag
 
 Manage skill libraries across AI harnesses. Carry your skills between projects and tools.
 
